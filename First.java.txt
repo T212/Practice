@@ -1,0 +1,9 @@
+Public class First{
+
+
+
+public static void main{
+int a = 21;
+system.out.println("Value of a  " +a);
+}
+}
